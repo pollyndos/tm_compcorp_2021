@@ -7,7 +7,7 @@ Here is the code I used for compiling a Wikipedia corpus, preprocessing, topic m
  
  **BasicLDAmethods** contains code for experiments with a comparable corpora using a standart LDA model from the gensim library
  
- **pd2txt** is used to create files with all documnets in english and russian corpora which then can be used for using polylingual topic model (PLTM) from the MALLET package (http://mallet.cs.umass.edu/topics-polylingual.php)
+ **pd2txt** is used to create files with all documents in english and russian corpora which then can be used for training polylingual topic model (PLTM) from the MALLET package (http://mallet.cs.umass.edu/topics-polylingual.php)
 
  ***
  my comparable corpus you can find here https://drive.google.com/file/d/19HuC0MpxNc-WYKNF9zpc4NWmeWkRxtz4/view?usp=sharing
