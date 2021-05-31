@@ -1,5 +1,5 @@
 # tm_compcorp_2021
-Here is the code I used to compile a Wikipedia corpus, preprocessing, topic modeling
+Here is the code I used for compiling a Wikipedia corpus, preprocessing, topic modeling
 ***
  **wikiscrap** contains 4 functions for creating a comparable corpora using Wikipedia (I used the Wikipedia-API library). You get txt files.
  
